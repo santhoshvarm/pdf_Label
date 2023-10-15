@@ -1,2 +1,2 @@
 # pdf_Label
-Choose a PDF file and a CSV file using the file selector, and the program will generate a new PDF file with added page labels.
+When you run the executable, a file selector will appear. You can select a PDF and a CSV file using this selector. The program will then create a new file with the 'with_label' suffix added to the PDF file's name and save it in the same folder.
